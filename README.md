@@ -1,4 +1,4 @@
-# Planner NodeJs Backend
+# Travel Planner NodeJs Backend
 
 ## Dependecies
 - Fastify
